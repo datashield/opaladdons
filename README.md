@@ -1,4 +1,4 @@
 opaladdons
 ==========
 
-Meta-package for R 3.x
+Meta-package for opal R client and R 3.x.
