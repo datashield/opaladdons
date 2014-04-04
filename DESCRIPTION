@@ -1,0 +1,15 @@
+Package: opaladdons
+Version: 1.0.0
+Title: Opal R utils for R 3.x
+Author: OBiBa <info@obiba.org>
+Maintainer: OBiBa <info@obiba.org>
+Depends:
+    R (>= 3.0.0),
+    opal (>= 2.1.0)
+Suggests:
+    knitrBootstrap
+Description: Provides some additional packages to opal R client.
+License: GPL-3
+OpalVersion: >= 2.0.0
+URL: http://www.obiba.org
+BugReports: http://jira.obiba.org
